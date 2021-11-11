@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4371" started-at="2021-11-11T13:30:05Z" finished-at="2021-11-11T13:30:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4371" started-at="2021-11-11T13:30:05Z" finished-at="2021-11-11T13:30:10Z">
+      <class name="selenium.SpringSeleniumTest">
+        <test-method status="PASS" signature="firstStep()[pri:0, instance:selenium.SpringSeleniumTest@20d3d15a]" name="firstStep" is-config="true" duration-ms="3615" started-at="2021-11-11T13:30:05Z" finished-at="2021-11-11T13:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstStep -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:selenium.SpringSeleniumTest@20d3d15a]" name="startUp" duration-ms="728" started-at="2021-11-11T13:30:09Z" finished-at="2021-11-11T13:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+      </class> <!-- selenium.SpringSeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
